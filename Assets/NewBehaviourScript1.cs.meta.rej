@@ -1,0 +1,13 @@
+diff a/Assets/NewBehaviourScript1.cs.meta b/Assets/NewBehaviourScript1.cs.meta	(rejected hunks)
+@@ -1,11 +0,0 @@
+-fileFormatVersion: 2
+-guid: 71836e0a982fb98468a82b4bb1287c5f
+-MonoImporter:
+-  externalObjects: {}
+-  serializedVersion: 2
+-  defaultReferences: []
+-  executionOrder: 0
+-  icon: {instanceID: 0}
+-  userData: 
+-  assetBundleName: 
+-  assetBundleVariant: 

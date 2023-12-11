@@ -1,0 +1,20 @@
+diff a/Assets/NewBehaviourScript1.cs b/Assets/NewBehaviourScript1.cs	(rejected hunks)
+@@ -1,18 +0,0 @@
+-using System.Collections;
+-using System.Collections.Generic;
+-using UnityEngine;
+-
+-public class NewBehaviourScript1 : MonoBehaviour
+-{
+-    // Start is called before the first frame update
+-    void Start()
+-    {
+-        
+-    }
+-
+-    // Update is called once per frame
+-    void Update()
+-    {
+-        
+-    }
+-}
